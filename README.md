@@ -1,3 +1,6 @@
+#Note
+This is a public repository! Do not check in any passwords/API keys/bank details, or anything else we don't want widely available!
+
 #How to use
 1. Clone the repository to the server you're setting up
 2. Create a new file in the same directory as the scripts called "folders.txt". Each line in this file is a folder that will be tidied up. Some examples of folders you might want to clean up - IIS logs, Sitecore logs, Temporary ASP.Net files. 
